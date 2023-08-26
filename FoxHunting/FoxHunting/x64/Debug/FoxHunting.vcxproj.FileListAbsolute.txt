@@ -1,0 +1,4 @@
+D:\MICROSOFT_VS\VS_SOURCE\REPOS\FoxHunting\FoxHunting\x64\Debug\FoxHunting.vcxproj.AssemblyReference.cache
+D:\MICROSOFT_VS\VS_SOURCE\REPOS\FoxHunting\FoxHunting\x64\Debug\FoxHunting.MyForm.resources
+D:\MICROSOFT_VS\VS_SOURCE\REPOS\FoxHunting\FoxHunting\x64\Debug\FoxHunting.vcxproj.GenerateResource.cache
+D:\MICROSOFT_VS\VS_SOURCE\REPOS\FoxHunting\FoxHunting\x64\Debug\FoxHunting.theGameForm.resources
