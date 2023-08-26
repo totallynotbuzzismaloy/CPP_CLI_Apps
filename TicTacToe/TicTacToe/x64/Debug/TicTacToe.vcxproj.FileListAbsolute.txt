@@ -1,0 +1,3 @@
+D:\MICROSOFT_VS\VS_SOURCE\REPOS\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.AssemblyReference.cache
+D:\MICROSOFT_VS\VS_SOURCE\REPOS\TicTacToe\TicTacToe\x64\Debug\TicTacToe.MyForm.resources
+D:\MICROSOFT_VS\VS_SOURCE\REPOS\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.GenerateResource.cache
